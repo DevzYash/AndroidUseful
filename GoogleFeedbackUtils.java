@@ -18,3 +18,7 @@ class GoogleFeedbackUtils {
         context.bindService(intent, serviceConnection, Context.BIND_AUTO_CREATE);
     }
 }
+
+
+
+// GoogleFeedbackUtils.bindFeedback(this); this method call from feedback button to launch and use this function.......
